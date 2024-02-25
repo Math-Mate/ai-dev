@@ -1,0 +1,5 @@
+# gitignore
+
+# Python Virtual Environment
+.venv/
+venv/
