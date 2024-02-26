@@ -2,3 +2,4 @@ stanza
 ipykernel
 spacy
 nltk
+benepar
